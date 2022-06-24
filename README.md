@@ -2,5 +2,5 @@
 Clean architecture
 Couroutine
 Hilt
-retrofit
+Retrofit
 LiveData
